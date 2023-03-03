@@ -16,7 +16,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Bluteki\\TruTeq\\Tests\\": "tests"
+            "Bluteki\\TruTeq\\Tests\\": "tests/"
         }
     },
     "require": {
