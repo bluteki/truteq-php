@@ -17,7 +17,7 @@
    
     <testsuites>
         <testsuite name="Bluteki TruTeq Code Coverage">
-            <directory suffix="Test.php">./Tests/</directory>
+            <directory suffix="Test.php">./tests/</directory>
         </testsuite>
     </testsuites>
     

@@ -12,10 +12,12 @@
     "autoload": {
         "psr-4": {
             "Bluteki\\TruTeq\\": "src/"
-        },
-        "classmap": [
-            "tests"
-        ]
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bluteki\\TruTeq\\Tests\\": "tests/"
+        }
     },
     "require": {
         "php" : "^8.0"
